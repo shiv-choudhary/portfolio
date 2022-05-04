@@ -1,3 +1,3 @@
 
 # Portfolio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> Visit https://shivam2017.github.io/portfolio/ to checkout hosted Portfolio
+> Visit https://shiv-choudhary.github.io/portfolio/ to checkout hosted Portfolio
